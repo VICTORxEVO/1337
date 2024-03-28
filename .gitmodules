@@ -1,0 +1,3 @@
+[submodule "curses/libft"]
+	path = curses/libft
+	url = https://github.com/VICTORxEVO/libft.git
