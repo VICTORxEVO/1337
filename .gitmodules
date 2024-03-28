@@ -4,9 +4,6 @@
 [submodule "curses/ft_printf"]
 	path = curses/ft_printf
 	url = https://github.com/VICTORxEVO/ft_printf.git
-[submodule "curses/so_long"]
-	path = curses/so_long
-	url = https://github.com/VICTORxEVO/so_long.git
 [submodule "curses/get_next_line"]
 	path = curses/get_next_line
 	url = https://github.com/VICTORxEVO/get_next_line.git
