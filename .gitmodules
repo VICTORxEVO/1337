@@ -13,3 +13,6 @@
 [submodule "curses/push_swap"]
 	path = curses/push_swap
 	url = git@github.com:VICTORxEVO/push_swap.git
+[submodule "pool-piscine_2023"]
+	path = pool-piscine_2023
+	url = git@github.com:VICTORxEVO/pool-piscine_2023.git
