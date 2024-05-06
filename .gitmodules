@@ -10,3 +10,6 @@
 [submodule "curses/so_long"]
 	path = curses/so_long
 	url = https://github.com/VICTORxEVO/so_long.git
+[submodule "curses/push_swap"]
+	path = curses/push_swap
+	url = git@github.com:VICTORxEVO/push_swap.git
