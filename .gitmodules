@@ -13,3 +13,6 @@
 [submodule "curses/push_swap"]
 	path = curses/push_swap
 	url = git@github.com:VICTORxEVO/push_swap.git
+[submodule "curses/pipex"]
+	path = curses/pipex
+	url = git@github.com:VICTORxEVO/pipex.git
