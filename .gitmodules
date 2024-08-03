@@ -16,3 +16,6 @@
 [submodule "curses/pipex"]
 	path = curses/pipex
 	url = git@github.com:VICTORxEVO/pipex.git
+[submodule "curses/Philosophers"]
+	path = curses/Philosophers
+	url = git@github.com:VICTORxEVO/Philosophers.git
