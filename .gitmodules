@@ -22,3 +22,6 @@
 [submodule "curses/minishell"]
 	path = curses/minishell
 	url = https://github.com/VICTORxEVO/minishell
+[submodule "curses/miniRT"]
+	path = curses/miniRT
+	url = https://github.com/VICTORxEVO/miniRT
