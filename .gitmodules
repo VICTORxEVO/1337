@@ -19,3 +19,6 @@
 [submodule "curses/Philosophers"]
 	path = curses/Philosophers
 	url = git@github.com:VICTORxEVO/Philosophers.git
+[submodule "curses/minishell"]
+	path = curses/minishell
+	url = https://github.com/VICTORxEVO/minishell
